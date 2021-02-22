@@ -1,0 +1,23 @@
+canvas {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+.alert {
+  align-self: center;
+  max-width: 50%;
+}
+.display-4 {
+  text-align: center;
+  color: white;
+}
+.lead {
+  text-align: center;
+  color: white;
+}
